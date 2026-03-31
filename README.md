@@ -1,2 +1,2 @@
-# CSC_588_ML
+# CSC_5_ML
 A ML group project
